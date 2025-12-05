@@ -1,2 +1,2 @@
 # devstudies
-Espaço para praticar programação
+Espaço para praticar programação no curso.dev
